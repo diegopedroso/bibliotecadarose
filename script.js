@@ -1,3 +1,9 @@
+function updateBookCount() {
+  const totalBooks = booksData.length;
+  const bookCountDiv = document.getElementById("bookCount");
+  bookCountDiv.textContent = `Total de livros disponíveis: ${totalBooks}`;
+}
+
 function searchBooks() {
   const searchTerm = document.getElementById("searchInput").value.toLowerCase();
   const resultsDiv = document.getElementById("results");
@@ -15,9 +21,12 @@ function searchBooks() {
         <h2>${book.Título}</h2>
         <p><strong>Autor:</strong> ${book.Autor}</p>
         <p><strong>Ano:</strong> ${book.Ano}</p>
-        <p><strong>Posicao:</strong> ${book.posicao}</p>
+        <p><strong>Posição:</strong> ${book.posicao}</p>
       `;
       resultsDiv.appendChild(bookDiv);
     }
   });
 }
+
+// Update the book count on page load
+document.addEventListener("DOMContentLoaded", updateBookCount);

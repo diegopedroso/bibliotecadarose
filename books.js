@@ -1,5 +1,38 @@
 const booksData = [
-  { "Título": "The Lord of the Rings", "Autor": "J.R.R. Tolkien", "Ano": 1954 },
-  { "Título": "To Kill a Mockingbird", "Autor": "Harper Lee", "Ano": 1949, "posicao": "A3"},
-  { "Título": "1984", "Autor": "George Orwell", "Ano": 1949 }
-];
+
+{"Título": "História e Devoção", "Autor": "Mauricio de Aquino", "Ano": "2011", "posicao": "A1"},
+{"Título": "Divina Comunhão - Festa de Todos os Sons", "Autor": "Marco Aurelio Gomes, Neusa Fleury Moraes", "Ano": "2010", "posicao": "A2"},
+{"Título": "Um olhar sobre a presença japonesa em Ourinhos", "Autor": "Marco Aurelio Gomes, Neusa Fleury Moraes", "Ano": "2008", "posicao": "A3"},
+{"Título": "Memórias do Secúlo XX", "Autor": "Mason Antony", "Ano": "2003", "posicao": "A4"},
+{"Título": "Ourinhos - Cidade da Dança", "Autor": "Rafael Lefcadito Álvares, Terezinha de Paula, Vanderley Silva", "Ano": "2012", "posicao": "A5"},
+{"Título": "Novas Hístorias de Ouro", "Autor": "Não informado", "Ano": "Não informado", "posicao": "A6"},
+{"Título": "Um espaço para lembranças de Ourinhos", "Autor": "Fernanda Saraiva Romera, Rosemary Reginato de Moraes", "Ano": "2004", "posicao": "A7"},
+{"Título": "Do Diamante Mineiro aos Canaviais Paulistas", "Autor": "Sandra Regina Gomes", "Ano": "2008", "posicao": "A8"},
+{"Título": "Saudades do Século 20", "Autor": "Ruy Castro", "Ano": "1994", "posicao": "A9"},
+{"Título": "O Jovem Noel Rosa", "Autor": "Guca Domenico", "Ano": "2003", "posicao": "A10"},
+{"Título": "Crônicas Escolhidas", "Autor": "Lima Barreto", "Ano": "Não informado", "posicao": "A11"},
+{"Título": "O curioso caso de Benjamin Button", "Autor": "F. Scott Fitzgerald", "Ano": "1922", "posicao": "A12"},
+{"Título": "O Pensamento Vivo de Sartre", "Autor": "Não informado", "Ano": "1990", "posicao": "A13"},
+{"Título": "O Pensamento vivo de Picasso", "Autor": "Não informado", "Ano": "1985", "posicao": "A14"},
+{"Título": "O Pesamento vivo de Nietzsche", "Autor": "Não informado", "Ano": "1991", "posicao": "A15"},
+{"Título": "Os grandes humanistas Charlie Chaplin", "Autor": "Pam Brown", "Ano": "1990", "posicao": "A16"},
+{"Título": "O poder Psíquico das Pirâmides", "Autor": "Bill Schul & Ed Pettit", "Ano": "1976", "posicao": "A17"},
+{"Título": "Crônicas Esocolhidas", "Autor": "Machado de Assis", "Ano": "Não informado", "posicao": "A18"},
+{"Título": "Ourinhos - São Paulo", "Autor": "Não informado", "Ano": "1918", "posicao": "A18"},
+{"Título": "Ourinhos Memôrias de uma Cidade Paulista", "Autor": "Jefferson Del Rios", "Ano": "1992", "posicao": "A19"},
+{"Título": "Memórias Dos Trilhos", "Autor": "Fabiana Lopes da Cunha", "Ano": "2014", "posicao": "A20"},
+{"Título": "Globalização, Logística e Transporte Aéreo", "Autor": "Josef Barat", "Ano": "Não informado", "posicao": "A21"},
+{"Título": "Os 100 melhores filmes do século 20", "Autor": "Rubens Ewald Filho", "Ano": "2001", "posicao": "A22"},
+{"Título": "O Amor me trouxe de Volta", "Autor": "Carol Bowman", "Ano": "2001", "posicao": "A23"},
+{"Título": "Correio do Além", "Autor": "Francisco Candido Xavier Espiritos Diversos", "Ano": "1983", "posicao": "A24"},
+{"Título": "Marilyn Monroe", "Autor": "Biografia", "Ano": "Não informado", "posicao": "A25"},
+{"Título": "Uma história de Ontem", "Autor": "Mônica de Castro", "Ano": "2001", "posicao": "A26"},
+{"Título": "Tudo a seu tempo", "Autor": "Elisa Masselli", "Ano": "Não informado", "posicao": "A27"},
+{"Título": "Evita Perón", "Autor": "Biografia", "Ano": "Não informado", "posicao": "A28"},
+{"Título": "O Grande Gênio Albert Einstein", "Autor": "Fernanda Cury", "Ano": "2003", "posicao": "A29"},
+{"Título": "Internet como expressão da indústria cultural", "Autor": "Marcimedes Martins da Silva", "Ano": "2008", "posicao": "A30"},
+{"Título": "Dalai Lama", "Autor": "Biografia", "Ano": "Não informado", "posicao": "A31"},
+{"Título": "Mahatma Gandhi", "Autor": "Biografia", "Ano": "Não informado", "posicao": "A32"},
+{"Título": "A vida e o pensamento de Che Guevara", "Autor": "Morgana Gomes", "Ano": "Não informado", "posicao": "A33"}
+
+]
